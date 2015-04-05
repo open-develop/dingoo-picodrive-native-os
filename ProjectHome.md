@@ -1,0 +1,1 @@
+This is a port of PicoDrive emulator by notaz to Dingoo A320 Native OS.
